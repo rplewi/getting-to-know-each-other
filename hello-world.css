@@ -1,0 +1,19 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#content{
+    display: flex;
+}
+#photo {
+    margin-top: 7%;
+    margin-left: 5%;
+}
+body{
+    background-color: rgb(31,33,32);
+}
+p, h1, h2, ul{
+    color: white;
+}
