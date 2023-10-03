@@ -17,3 +17,12 @@ body{
 p, h1, h2, ul{
     color: white;
 }
+ .link{
+    text-decoration: none;
+    color: white;
+ }
+
+ .link:hover{
+    color: purple;
+    font-size: 1.25rem;
+ }
